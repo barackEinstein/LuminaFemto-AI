@@ -8,47 +8,44 @@ LuminaFemto AI  Autonomous platform discovering photocatalysts via spectral acti
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
-[![GitHub Stars](https://img.shields.io/github/stars/BarackEinstein97/LuminaFemto-AI?style=social)](https://github.com/BarackEinstein97/LuminaFemto-AI)
+[![GitHub Stars](https://img.shields.io/github/stars/BarackEinstein97/LuminaFemto-AI?style=social)](https://github.com/BarackEinstein97/LuminaFemto-AI
 
----
+## 👨‍🔬 **Author**
 
-## 👨‍🔬 **Auteur**
+**Ndenga Lumbu Barack** (aka *BarackEinstein97*)
+Independent Researcher
+Kinshasa, Democratic Republic of the Congo
+📧 ndengabarack@gmail.com
+📞 +243837767430
 
-**Ndenga Lumbu Barack** (alias *BarackEinstein97*)  
-Chercheur Indépendant  
-Kinshasa, République Démocratique du Congo  
-📧 ndengabarack@gmail.com  
-📞 +243837767430  
+> *"By combining femtojoule-level energy awareness with spectral-driven active learning, I have shown that materials discovery can be not only faster but fundamentally smarter, guiding each experiment with both precision and minimal resource expenditure."*
 
-> *"En combinant la conscience énergétique à l'échelle femtojoule avec l'apprentissage actif piloté par le spectre, j'ai démontré que la découverte de matériaux peut être non seulement plus rapide, mais fondamentalement plus intelligente, guidant chaque expérience avec précision et un minimum de ressources."*
+## 🧠 **Project Overview**
 
----
+**LuminaFemto AI** is a simulation-based active learning platform that autonomously discovers high-performance photocatalysts with femtojoule-scale energy consumption.
 
-## 🧠 **Aperçu du Projet**
+### 🔬 **The Challenge**
+*   Photocatalyst discovery is **slow** (days/weeks per candidate)
+*   **Energy-intensive** (watts per experiment)
+*   **Costly** (equipment, reagents, time)
 
-**LuminaFemto AI** est une plateforme d'apprentissage actif basée sur la simulation qui découvre automatiquement des photocatalyseurs hautes performances avec une consommation d'énergie à l'échelle du femtojoule.
+### 💡 **The LuminaFemto AI Solution**
+*   ⚡ **Femtojoule consumption** per iteration (10⁻¹⁵ J)
+*   🔁 **Active learning** with uncertainty-driven acquisition
+*   📉 **Convergence in < 25 iterations** (< 1 simulated hour)
+*   🧪 **20× energy reduction** vs. standard active learning
+*   🌍 **Scalable** to real-world experimental labs
 
-### 🔬 **Problématique**
-- La découverte de photocatalyseurs est **lente** (jours/semaines par candidat)
-- **Énergivore** (watts par expérience)
-- **Coûteuse** (équipements, réactifs, temps)
 
-### 💡 **Solution LuminaFemto AI**
-- ⚡ **Consommation femtojoule** par itération (10⁻¹⁵ J)
-- 🔁 **Apprentissage actif** avec acquisition pilotée par l'incertitude
-- 📉 **Convergence en < 25 itérations** (< 1 heure simulée)
-- 🧪 **Réduction d'énergie ×20** vs apprentissage actif standard
-- 🌍 **Scalable** vers des laboratoires expérimentaux réels
+## 💼 For Investors
 
----
+LuminaFemto AI represents a unique investment opportunity in the intersection of AI, green energy, and laboratory automation.
 
-## 🎯 **Applications**
-
-- ✅ Production d'hydrogène vert par photocatalyse
-- ✅ Réduction du CO₂ en carburants solaires
-- ✅ Dépollution environnementale
-- ✅ Synthèse chimique durable
-- ✅ Laboratoires autonomes à très faible consommation
+*   **Market**: Addresses a $150B+ market in advanced materials and clean energy.
+*   **Tech**: First-to-market with femtojoule-efficient, energy-aware active learning.
+*   **IP**: Open-source core with patented method (pending).
+*   **Stage**: Simulation validated (TRL 3), ready for experimental integration.
+*   **Contact**: For partnership or investment inquiries, email ndengabarack@gmail.com.
 
 ## ⚙️ **How it works**
 
