@@ -2,23 +2,12 @@
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability within this project, please follow these steps:
-1. **Private Disclosure**: Email us directly at [security@luminafemto-ai.com](mailto:security@luminafemto-ai.com) to report the issue. Please include the following details:
-   - A clear description of the vulnerability, including replication steps.
-   - Impact assessment for users of the project.
-   - Any additional information you believe may help us understand the issue.
+If you discover a vulnerability in this project, we kindly ask you to report it to us through the following process:
 
-2. **Do Not Open Public Issues**: We prioritize the security of our users and will address vulnerabilities as quickly as possible. Publicly disclosing vulnerabilities can put users at risk and is against our security policy.
+1. **Identify the Vulnerability**: Ensure that the issue you have found is a real security concern.
+2. **Contact Us**: Reach out to our security team directly at [security@luminafemto-ai.project](mailto:security@luminafemto-ai.project) with a clear description of the vulnerability, the steps to reproduce it, and any potential impact.
+3. **Response**: We will respond to your report promptly and acknowledge your submission. We may ask for additional details or clarification.
+4. **Resolution**: Upon validation of your report, we will work on a fix, and thereafter, we will notify you before making the fix public. 
+5. **Credit**: If you wish, we can give credit to your contribution when we disclose the vulnerability.
 
-3. **Response Timeline**: We aim to respond to all reported vulnerabilities within 48 hours and provide updates on the resolution process.
-
-## Security Best Practices
-
-To ensure the security of your application while using this project, consider adopting the following best practices:
-- Regularly update dependencies and monitor for any vulnerabilities.
-- Use secure coding practices, especially when handling user inputs.
-- Implement proper authentication and authorization checks.
-
-## Acknowledgments
-
-Vulnerabilities reported will be acknowledged in our project releases, following our vulnerability response process.
+Thank you for helping us keep our project secure!
