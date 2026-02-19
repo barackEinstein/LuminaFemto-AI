@@ -1,13 +1,32 @@
 # Security Policy
 
-## Reporting a Vulnerability
+## Reporting Security Vulnerabilities
 
-If you discover a vulnerability in this project, we kindly ask you to report it to us through the following process:
+If you discover a security vulnerability in LuminaFemto-AI, please report it responsibly by emailing us at **security@luminafemto.ai** instead of using the public issue tracker.
 
-1. **Identify the Vulnerability**: Ensure that the issue you have found is a real security concern.
-2. **Contact Us**: Reach out to our security team directly at [security@luminafemto-ai.project](mailto:security@luminafemto-ai.project) with a clear description of the vulnerability, the steps to reproduce it, and any potential impact.
-3. **Response**: We will respond to your report promptly and acknowledge your submission. We may ask for additional details or clarification.
-4. **Resolution**: Upon validation of your report, we will work on a fix, and thereafter, we will notify you before making the fix public. 
-5. **Credit**: If you wish, we can give credit to your contribution when we disclose the vulnerability.
+### Guidelines
+- Do not publicly disclose the vulnerability until we have had time to address it
+- Provide a detailed description of the vulnerability
+- Include steps to reproduce the issue if possible
+- Allow us reasonable time to develop and release a fix
 
-Thank you for helping us keep our project secure!
+## Supported Versions
+
+| Version | Status | Support Until |
+|---------|--------|---|
+| 1.0.x   | Active | 2027-02-19 |
+| 0.9.x   | Security fixes only | 2026-08-19 |
+
+## Security Updates
+
+We will release security updates as soon as they are available. Users are encouraged to update to the latest version.
+
+## Best Practices
+
+When using LuminaFemto-AI:
+- Keep your dependencies up to date
+- Review code changes before merging
+- Use secure authentication methods
+- Report any suspicious activity immediately
+
+Thank you for helping us keep LuminaFemto-AI secure! 🔒
